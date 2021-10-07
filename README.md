@@ -1,1 +1,1 @@
-this repository for BE502 class project 
+This repository is for BE502 class project 
